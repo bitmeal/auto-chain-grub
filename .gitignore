@@ -1,0 +1,17 @@
+# build artifacts
+build/
+build*/
+
+# IDE settings
+.vs/
+.vscode/
+CMakeSettings.json
+
+# misc
+trash/
+
+# disk files
+*.img
+*.iso
+*.vhd
+*.vhdx
